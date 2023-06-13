@@ -36,6 +36,7 @@ h1 {
 #searchInput {
   padding: 8px;
   font-size: 16px;
+  color: #000;
   border: 0.1px solid #fff;
   border-radius: 4px 0 0 4px;
   width: 300px;
